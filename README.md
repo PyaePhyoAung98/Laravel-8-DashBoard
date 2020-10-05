@@ -1,6 +1,6 @@
 <h3>DashBoard with Laravel-8,inertia.js,vue,vuetify.js</h3>
 
-<img src="dashboard_8.png" style="width:100%;">
+<img src="dash.png" style="width:100%;">
 
 #installation
 <p>composer install</p>
