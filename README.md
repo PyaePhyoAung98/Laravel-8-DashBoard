@@ -11,4 +11,5 @@
 <p>php artisan migrate</p>
 
 <p>npm install</p>
-<p>npm i @inertiajs/progress &&  vuetify && Toastr && axios</p>
+
+<p>@inertiajs/progress &&  vuetify && Toastr && axios</p>
